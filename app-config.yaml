@@ -1,0 +1,3 @@
+# Path to production model and vectorizer
+model: 'models/LinearSVC.pkl'
+vectorizer: 'data/tfidf.pkl'
